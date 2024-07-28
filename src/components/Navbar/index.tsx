@@ -1,4 +1,4 @@
-import { BsTelegram, BsTwitter } from 'react-icons/bs';
+import { BsTwitter } from 'react-icons/bs';
 import logo from '../../assets/logo.jpg';
 import { BiLogoTelegram } from 'react-icons/bi';
 {
